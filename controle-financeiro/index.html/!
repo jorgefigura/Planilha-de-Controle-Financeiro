@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planilha de Controle Financeiro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Planilha de controle financeiro</h1>
+        </header>
+
+        <div class="conteudo">
+
+            <div class="info-topo">
+                <p>💰 Saldo: R$ 4.580</p>
+                <p>📈 +12% este mês</p>
+                <p>🎯 Meta: 65%</p>
+            </div>
+
+            <div class="texto-principal">
+
+                <h2>
+                    “Controle seus gastos. Faça seu dinheiro render.”
+                </h2>
+
+                <div class="descricao">
+                    <span>📊</span>
+                    <p>
+                        Tenha uma visão completa dos seus gastos,
+                        metas e investimentos.
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="grafico">
+
+                <div class="barra h100">
+                    <span>R$100</span>
+                    <p>Pets</p>
+                </div>
+
+                <div class="barra h150">
+                    <span>R$150</span>
+                    <p>Outros</p>
+                </div>
+
+                <div class="barra h120">
+                    <span>R$220</span>
+                    <p>Saúde</p>
+                </div>
+
+                <div class="barra h180">
+                    <span>R$250</span>
+                    <p>Lazer</p>
+                </div>
+
+                <div class="barra h160">
+                    <span>R$500</span>
+                    <p>Transporte</p>
+                </div>
+
+                <div class="barra h240">
+                    <span>R$1000</span>
+                    <p>Alimentação</p>
+                </div>
+
+                <div class="barra h320">
+                    <span>R$2000</span>
+                    <p>Moradia</p>
+                </div>
+
+            </div>
+
+            <div class="rodape">
+                ⬇ BAIXE AGORA SUA PLANILHA DE GASTOS
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
